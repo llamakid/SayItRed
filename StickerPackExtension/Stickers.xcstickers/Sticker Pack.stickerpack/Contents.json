@@ -1,0 +1,92 @@
+{
+  "stickers" : [
+    {
+      "filename" : "areYouHearing.sticker"
+    },
+    {
+      "filename" : "areYouListening.sticker"
+    },
+    {
+      "filename" : "dotdotdot.sticker"
+    },
+    {
+      "filename" : "fine.sticker"
+    },
+    {
+      "filename" : "fineGo.sticker"
+    },
+    {
+      "filename" : "fineWhatever.sticker"
+    },
+    {
+      "filename" : "hahaha.sticker"
+    },
+    {
+      "filename" : "haveFunWithThat.sticker"
+    },
+    {
+      "filename" : "imFine!.sticker"
+    },
+    {
+      "filename" : "imFine.sticker"
+    },
+    {
+      "filename" : "no!!.sticker"
+    },
+    {
+      "filename" : "no.sticker"
+    },
+    {
+      "filename" : "noTimeForThat.sticker"
+    },
+    {
+      "filename" : "noTimeForThins.sticker"
+    },
+    {
+      "filename" : "screwThat.sticker"
+    },
+    {
+      "filename" : "screwYou.sticker"
+    },
+    {
+      "filename" : "thatIsntFunny.sticker"
+    },
+    {
+      "filename" : "whatTheHeck.sticker"
+    },
+    {
+      "filename" : "whatTheHell.sticker"
+    },
+    {
+      "filename" : "whyWontYouAnswer.sticker"
+    },
+    {
+      "filename" : "whyWouldYouSay.sticker"
+    },
+    {
+      "filename" : "wow.sticker"
+    },
+    {
+      "filename" : "yes.sticker"
+    },
+    {
+      "filename" : "yesImSure.sticker"
+    },
+    {
+      "filename" : "youBetterBeKidding.sticker"
+    },
+    {
+      "filename" : "youLeaveYet.sticker"
+    },
+    {
+      "filename" : "youSuck.sticker"
+    }
+  ],
+  "info" : {
+    "version" : 1,
+    "author" : "xcode"
+  },
+  "properties" : {
+    "grid-size" : "regular"
+  }
+}
